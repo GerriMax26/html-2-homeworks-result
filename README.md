@@ -12,7 +12,7 @@
 Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/netology-code/codestyle/tree/master/html) и [CSS](https://github.com/netology-code/codestyle/tree/master/css).
 
 
-# 1.2. Контентные теги
+# 1.2. Контентные теги(content-tags)
 
 Нужно выполнить и отправить на проверку задания:
 
