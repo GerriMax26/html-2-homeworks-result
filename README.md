@@ -23,3 +23,18 @@
 Все задания обязательны к выполнению.
 
 Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
+
+# 1.3. Теги для вёрстки структуры контента
+
+Нужно выполнить задания:
+
+1. [История Монреаля](https://github.com/GerriMax26/html-2-homeworks/tree/master/content-structure-tags/markup).
+2. [Последние новости](https://github.com/GerriMax26/html-2-homeworks/tree/master/content-structure-tags/latest-news).
+3. [Раздел услуг веб-студии](https://github.com/GerriMax26/html-2-homeworks/tree/master/content-structure-tags/web-studio).
+
+Для выполнения этих заданий вам нужно знать, как центрировать текст и блоки по горизонтали.
+Для текста используйте `text-align: center`. 
+Для более сложных ситуаций у контейнера (родительского элемента) используйте `margin: 0 auto`.
+
+Все задания обязательны к выполнению.
+Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/GerriMax26/codestyle/tree/master/html) и [CSS](https://github.com/GerriMax26/codestyle/tree/master/css).
